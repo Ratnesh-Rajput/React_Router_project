@@ -16,15 +16,15 @@ Node.js and npm (or yarn)
 Git
 
 ### Getting Started
-Clone the repository:
+* Clone the repository:
 ```git clone <repository_url>```
 
-Navigate to the project directory:
+* Navigate to the project directory:
 ```cd react-router-learning-project```
-Install dependencies:
-```npm install / yarn install ```
-Start the development server:
 
+* Install dependencies:
+```npm install / yarn install ```
+* Start the development server:
 ```npm run dev```
 
 ### Contributing
